@@ -59,13 +59,13 @@ This took me about 5 minutes
 ## Fork
 
 ### Description
-
+This is the object that holds the Tire is was very easy to make
 ### Evidence
-
+The fork took me about eight minutes to build and really helped with fillets 
 ### Image
-
+<img scr="https://cvilleschools.onshape.com/documents/84810d16f18f0001d6ae0684/w/831f74e2ec7db07b6885ab0f/e/fd7ed1afac67812dd6b0f96e"
 ### Reflection
-
+ This was a really easy part to make and helped me learn fillets
 ---
 
 
