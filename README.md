@@ -98,11 +98,11 @@ I messed up my first sketch and had to get Mr H to help Make sure you check your
 ## AxleCollarBearings
 
 ### Description
-
+This is what hold the wheel and how it spins around
 ### Evidence
-
+You need an axle and Bearings to make a wheel spin
 ### Image
-
+<img src="https://cvilleschools.onshape.com/documents/84810d16f18f0001d6ae0684/w/831f74e2ec7db07b6885ab0f/e/9e8a1951634f56f09f3c886a">
 ### Reflection
-
+I now think I know how to properly use onshape.
 ---
