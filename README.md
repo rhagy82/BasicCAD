@@ -63,7 +63,7 @@ This is the object that holds the Tire is was very easy to make
 ### Evidence
 The fork took me about eight minutes to build and really helped with fillets 
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/84810d16f18f0001d6ae0684/w/831f74e2ec7db07b6885ab0f/e/fd7ed1afac67812dd6b0f96e">
+<img src="Fork.png">
 ### Reflection
  This was a really easy part to make and helped me learn fillets
 ---
@@ -76,7 +76,7 @@ This is the wheel for out caster
 ### Evidence
 The tire holds up the caster and is it mode of movement
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/84810d16f18f0001d6ae0684/w/831f74e2ec7db07b6885ab0f/e/7356326cb4247060d285f2ed">
+<img src="Tire.png">
 ### Reflection
 This was an easy part to make and helped with using the revolve tool to make a tire
 ---
@@ -89,7 +89,7 @@ This is the object that holds the tire rubber and spins on the fork
 ### Evidence
 This is the basic need to hold the fork and tire together
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/84810d16f18f0001d6ae0684/w/831f74e2ec7db07b6885ab0f/e/43fea759f0b47bb5d586afc2">
+<img src="Wheel.png">
 ### Reflection
 I messed up my first sketch and had to get Mr H to help Make sure you check your steck dimensions so that onshape knows the dimensions are for a revolve
 ---
@@ -102,7 +102,7 @@ This is what hold the wheel and how it spins around
 ### Evidence
 You need an axle and Bearings to make a wheel spin
 ### Image
-<img src="https://cvilleschools.onshape.com/documents/84810d16f18f0001d6ae0684/w/831f74e2ec7db07b6885ab0f/e/9e8a1951634f56f09f3c886a">
+<img src="Axle.png">
 ### Reflection
 I now think I know how to properly use onshape.
 ---
