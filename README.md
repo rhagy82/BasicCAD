@@ -11,7 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-
+* [Sub Asssembly](#Sub Assembly)
 ## Base
 
 ### Description
@@ -105,4 +105,14 @@ You need an axle and Bearings to make a wheel spin
 <img src="Axle.png">
 ### Reflection
 I now think I know how to properly use onshape.
+
+## Sub Assembly 
+
+### Description
+I put together my wheel tire axle and bearings in this assembly
+### Evidence
+I used a fastened mate and a revolute mate to make this 
+### Image
+<img src="">
+### Reflection
 ---
