@@ -109,10 +109,16 @@ I now think I know how to properly use onshape.
 ## Sub Assembly 
 
 ### Description
-I put together my wheel tire axle and bearings in this assembly
+I put together my wheel tire axle and bearings in this assembly.
 ### Evidence
-I used a fastened mate and a revolute mate to make this 
+I used a fastened mate and a revolute mate to make this.
 ### Image
-<img src="">
+<img src="SubAssembly.png">
 ### Reflection
+I think I can now really understand assemblys in onshape.
+
+
+
+
+
 ---
