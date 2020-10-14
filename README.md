@@ -121,9 +121,9 @@ I think I can now really understand assemblys in onshape.
 ## Final Assembly
 
 ### Description
-
+This was the entire assembly we put together all of the parts that we made in onshape here.
 ### Evidence
-
+I inserted every part I made into this assembly and mated them all together.
 ### Image
 
 ### Reflection
