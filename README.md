@@ -13,6 +13,7 @@ We are creating a caster.
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub Asssembly](#Sub-Assembly)
 * [Final Assembly](#Final-Assembly)
+* [Dorothy's Dowel's](#Dorothy's-Dowel's)
 ## Base
 
 ### Description
@@ -129,5 +130,13 @@ I inserted every part I made into this assembly and mated them all together.
 ### Reflection
 I had a fun time learning cad and I am glad I finished.
 
+## Dorothy's Dowel's
 
+### Description 
+ This was a picture frame we used for an assigment in class.
+### Evidence
+ We built the dowel's using configurations and built the parts by making a trapizoid
+### Image
+<img src="">
+### Reflection
 ---
