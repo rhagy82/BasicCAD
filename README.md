@@ -139,4 +139,5 @@ I had a fun time learning cad and I am glad I finished.
 ### Image
 <img src="Dorothy.png">
 ### Reflection
+ This was very difficult it took my about a hour.
 ---
